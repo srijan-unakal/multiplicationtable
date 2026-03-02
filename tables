@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class MultiplicationTable {
     public static void main(String[] args) {
+//this program prints multiplication tables of numbers entered in console
 
         Scanner sc = new Scanner(System.in);
 
