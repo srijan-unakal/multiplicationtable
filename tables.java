@@ -1,7 +1,7 @@
 package tables;
 import java.util.Scanner;
 public class tables {
-
+//This program prints multiplication tables of any given no. and upto desired count
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("This program prints multiplication tables of any given no. and upto desired count");
